@@ -66,6 +66,8 @@ start.addEventListener("click", (e) => {
 	Interval = setInterval(pomodoro, 1000);
 });
 
+
+
 // for pause button
 const pause = document.querySelector(".pause");
 pause.addEventListener("click", (e) => {
